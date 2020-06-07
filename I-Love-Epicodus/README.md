@@ -3,7 +3,8 @@
 ### This is an anecdotal story about the Growth Mindset and the word, "boring."
 
 #### Authored by Lauralee Green, lalabee 3412 on GitHub, onlinelassie@gmail.com  on June 7, 2020  as part of an Introductory Lesson at the Epicodus School of Coding.
-#####This project is a compilation of coding skills: 
+
+This project is a compilation of coding skills: 
   1. Html
   2. css styles
   3. Divs, Spans, and maybe Floats if I get that far. 
