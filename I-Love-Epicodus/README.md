@@ -9,4 +9,4 @@ This project is a compilation of coding skills:
   2. css styles
   3. Divs, Spans, and maybe Floats if I get that far. 
   4. I am still trying to learn git and the command line. My success is sporadic. 
-  5. This Licenced as Open Source with the MIT Licence. If you retell my true little story about me and my dad at the kitchen table many years ago please add my name to your retelling. He and I would love that.
+  5. This is Licenced as Open Source with the MIT Licence. If you retell my true little story about me and my dad at the kitchen table many years ago please add my name to your retelling. He and I would love that.
